@@ -9,14 +9,14 @@
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SENSEI620&show_icons=true&theme=transparent" alt="Estatísticas do GitHub">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=SENSEI620&show_icons=true&theme=transparent" alt="Estatísticas do GitHub">
   
-
+    
 </div>
 
 
 <h2 align="center">Habilidades</h2>
-<p align="center">
+<p align="center" >
     <img align="center" src="https://img.icons8.com/?size=50&id=20909&format=png&color=000000" alt="HTML5"/>
     <img align="center" src="https://img.icons8.com/?size=50&id=21278&format=png&color=000000" alt="CSS5"/>
     <img align="center" src="https://img.icons8.com/?size=50&id=108784&format=png&color=000000" alt="JavaScript"/>
