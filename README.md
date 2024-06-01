@@ -37,7 +37,6 @@
   <a href="https://www.youtube.com/channel/UCRWowan-GAez6ItKQ1hOF-A"><img src="https://img.icons8.com/?size=70&id=19318&format=png&color=000000" alt="YouTube"/></a>
   <a href="https://www.instagram.com/junior620koohi/"><img src="https://img.icons8.com/?size=70&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram"/></a>
   <a href="https://www.tiktok.com/@sense1_bat"><img src="https://img.icons8.com/?size=70&id=118640&format=png&color=000000" alt="TikTok"/></a>
-  <a href="Heljacojuniorplay620@gmail.com"><img src="https://img.icons8.com/?size=70&id=P7UIlhbpWzZm&format=png&color=000000" alt="e-mail"/></a>
 </p>
 
 <!-- Seção dos Projetos em Destaque -->
