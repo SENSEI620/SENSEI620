@@ -3,7 +3,7 @@
 <h1 align="center">Olá, eu sou HELJACO JUNIOR 👋</h1>
 
 <!-- Seção da Descrição -->
-<h3 align="center">Sou um entusiasta da tecnologia apaixonado por front-end, design UX/UI e segurança cibernética.</h3>
+<h3 align="center">Sou um entusiasta da tecnologia apaixonado por front-end, design UX/UI </h3>
 
 <!-- Seção das Estatísticas do GitHub -->
 
